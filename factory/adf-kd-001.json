@@ -1,0 +1,9 @@
+{
+	"name": "adf-kd-001",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1233adbc-37fc-459c-b187-051a80c25038",
+		"tenantId": "2541c8be-b278-44d2-993d-db8944088d42"
+	}
+}
